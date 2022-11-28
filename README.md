@@ -4,9 +4,9 @@
 
 https://www.metamute.org/editorial/magazine/mute-vol-1-no.-9-0
 
-[View PDF](https://mute-publishing.github.io/) - [Images](https://github.com/Mute-Publishing/) - [Repository](https://github.com/Mute-Publishing/) 🐜
+[View PDF](https://nbviewer.org/github/Mute-Publishing/M09/blob/main/pdf/M009.pdf) - [Images](https://github.com/Mute-Publishing/M09/tree/main/300dpi) - [Repository](https://github.com/Mute-Publishing/M09/) 🐜
 
-![Mute Vol 1, No. 9 cover](https://raw.githubusercontent.com/Mute-Publishing//M09/blob/main/pdf/M009.pdf)
+![Mute Vol 1, No. 9 cover](https://raw.githubusercontent.com/Mute-Publishing/M09/main/72dpi/mute-09-0.jpg)
 
 Toot me 😉 - hashtag [\#mutemagazine] om Fosstodonhttps://fosstodon.org/@metamute
 
