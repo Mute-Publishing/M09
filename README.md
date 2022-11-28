@@ -1,5 +1,7 @@
 # Mute Vol 1, No. 9, 1997 Sept, ISSN 1356-7748-09
 
+Wikidata: https://www.wikidata.org/wiki/Q115486489
+
 ## Mute Magazine Print Archive
 
 https://www.metamute.org/editorial/magazine/mute-vol-1-no.-9-0
