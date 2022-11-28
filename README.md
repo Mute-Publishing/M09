@@ -8,7 +8,7 @@ https://www.metamute.org/editorial/magazine/mute-vol-1-no.-9-0
 
 ![Mute Vol 1, No. 9 cover](https://raw.githubusercontent.com/Mute-Publishing/M09/main/72dpi/mute-09-0.jpg)
 
-Toot me 😉 - hashtag [\#mutemagazine] om Fosstodonhttps://fosstodon.org/@metamute
+Toot me 😉 - hashtag #mutemagazine om Fosstodon https://fosstodon.org/@metamute
 
 Any questions or if you want to volunteer in archiving work - see [GitHub discussion](https://github.com/orgs/Mute-Publishing/discussions). 🍸
 
