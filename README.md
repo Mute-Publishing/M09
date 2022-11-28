@@ -6,7 +6,7 @@ https://www.metamute.org/editorial/magazine/mute-vol-1-no.-9-0
 
 [View PDF](https://mute-publishing.github.io/) - [Images](https://github.com/Mute-Publishing/) - [Repository](https://github.com/Mute-Publishing/) 🐜
 
-![Mute Vol 1, No. 9 cover](https://raw.githubusercontent.com/Mute-Publishing/)
+![Mute Vol 1, No. 9 cover](https://raw.githubusercontent.com/Mute-Publishing//M09/blob/main/pdf/M009.pdf)
 
 Toot me 😉 - hashtag [\#mutemagazine] om Fosstodonhttps://fosstodon.org/@metamute
 
