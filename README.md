@@ -1,14 +1,16 @@
 # Mute Vol 1, No. 9, 1997 Sept, ISSN 1356-7748-09
 
+Wikidata: https://www.wikidata.org/wiki/Q115486489
+
 ## Mute Magazine Print Archive
 
 https://www.metamute.org/editorial/magazine/mute-vol-1-no.-9-0
 
-[View PDF](https://mute-publishing.github.io/) - [Images](https://github.com/Mute-Publishing/) - [Repository](https://github.com/Mute-Publishing/) 🐜
+[View PDF](https://nbviewer.org/github/Mute-Publishing/M09/blob/main/pdf/M009.pdf) - [Images](https://github.com/Mute-Publishing/M09/tree/main/300dpi) - [Repository](https://github.com/Mute-Publishing/M09/) 🐜
 
-![Mute Vol 1, No. 9 cover](https://raw.githubusercontent.com/Mute-Publishing/)
+![Mute Vol 1, No. 9 cover](https://raw.githubusercontent.com/Mute-Publishing/M09/main/72dpi/mute-09-0.jpg)
 
-Toot me 😉 - hashtag [\#mutemagazine] om Fosstodonhttps://fosstodon.org/@metamute
+Toot me 😉 - hashtag #mutemagazine om Fosstodon https://fosstodon.org/@metamute
 
 Any questions or if you want to volunteer in archiving work - see [GitHub discussion](https://github.com/orgs/Mute-Publishing/discussions). 🍸
 
